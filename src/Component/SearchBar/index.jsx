@@ -1,3 +1,4 @@
+// SearchBar.jsx
 import React, { useState } from 'react';
 import { FormControl, InputLabel, Select, MenuItem, Button, Grid } from '@mui/material';
 
@@ -16,8 +17,8 @@ function SearchBar(props) {
         }));
     };
 
-    const search = async () => {
-        await props.fetchJobsCustom(jobCriteria);
+    const search = () => {
+        props.fetchJobsCustom(jobCriteria);
     };
 
     return (
