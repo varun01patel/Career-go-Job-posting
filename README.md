@@ -12,8 +12,7 @@ Welcome to the Job Posting Website! This project is a modern and intuitive platf
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
